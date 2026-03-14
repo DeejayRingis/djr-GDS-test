@@ -13,7 +13,7 @@ Right now, this project just blinks a LED pattern on a seven segment display. Th
 
 ## How to test
 
-Connect switch bar to inputs 0 through 7, and output LEDs to outputs 0 through 7. ON switch should correspond to 
+Connect switch bar to inputs 0 through 7, and output LEDs to outputs 0 through 7. ON switch should correspond to an ON LED
 
 ## External hardware
 
